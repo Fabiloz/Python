@@ -54,7 +54,7 @@ _________________________________________________Vista en consola_______________
 
 
 ## 🖥️ Resultado en consola
-Este proyecto se ejecuta desde la terminal, permitiendo a cada usuario interactuar con la aplicación PIRAMIPAGOS de forma sencilla e intuitiva. La interfaz simula un flujo de diálogo donde se recopilan los datos laborales (resaltados en amarillo) y se entrega el detalle completo del cálculo de su sueldo (información que arroja automàticamente el sistema, resaltados en verde).
+Este proyecto se ejecuta desde la terminal, permitiendo a cada usuario interactuar con la aplicación PIRAMIPAGOS de forma sencilla e intuitiva. La interfaz simula un flujo de diálogo donde se recopilan los datos laborales (resaltado en amarillo) y se entrega el detalle completo del cálculo de su sueldo (información que arroja automáticamente el sistema, resaltado en verde).
 
 La captura superior muestra un ejemplo real del funcionamiento del programa:
 
@@ -62,7 +62,7 @@ Entrada de datos por parte del trabajador o el usuario de RRHH
 
 Confirmación de horas extra 
 
-Aplicación automática de bonificación o descuento (resaltados en color verde, se refiere a la información arrojada automáticamente por el sistema)
+Aplicación automática de bonificación o descuento
 
 Mensaje de cierre
 
