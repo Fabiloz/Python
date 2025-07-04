@@ -47,9 +47,10 @@ El ejercicio muestra cómo una interfaz sencilla puede manejar procesos básicos
 ---
 
 ## 📎 Recursos adicionales
-                                                    Vista en consola                                                     
+_________________________________________________Vista en consola_________________________________________________                                                    
 
-![vista de consola piramipagos-2.png](<attachment:vista de consola piramipagos-2.png>)
+![vista de consola piramipagos](https://github.com/user-attachments/assets/85cf009e-a2e5-4a1d-83b0-920d5d039fad)
+
 
 
 ## 🖥️ Resultado en consola
