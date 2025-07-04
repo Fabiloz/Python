@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./pirampagos-logo.png" alt="Logo del proyecto PIRAMIPAGOS" width="250"/>
-</p>
-
 # 💼 PIRAMIPAGOS – Cálculo de Sueldos Semanales para Trabajadores de Construcción
 
 Este proyecto simula una aplicación de consola que calcula el salario semanal de trabajadores ficticios en una obra de construcción, utilizando condiciones reales como pago por horas extra, bonificación por rendimiento y descuentos por llegadas tarde. La herramienta fue diseñada para demostrar cómo un script en Python puede ser accesible, funcional y humano al mismo tiempo.
